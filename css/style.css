@@ -8,7 +8,7 @@
 
 
 body {
-    background: linear-gradient(#6ab7f5, #fff);
+    background-image: url('/img/SL-100420-36140-29.jpg');
     min-height: 100vh;
     display: flex;
     flex-direction: column;
